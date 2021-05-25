@@ -9,7 +9,7 @@ Meus interesses pessoais:
 <li>:innocent: Mudar vida de pessoas através da programação;</li>
 <li>:heart_eyes: Amante de Doguinhos !;</li>
 <li>📫 Entre em contato comigo através do email: brunobbastosf@gmail.com;</li>
-<li>:smile: Qualquer dúvida entre em contato, vai ser um prazer conversar com você. Eu gosto de conversar.</li>
+<li>:smile: Qualquer dúvida pisca!:wink:, vai ser um prazer ajudar você. Eu gosto de conversar.</li>
 </ul>
 <div display='flex'>
 <img src='https://i.pinimg.com/originals/27/18/b9/2718b9ee5650e544471d6a3cf24ce993.jpg' width='100'/>
