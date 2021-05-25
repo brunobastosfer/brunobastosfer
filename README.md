@@ -4,7 +4,7 @@
 Meus interesses pessoais: 
 <li>🔭 Aprender novas linguagens;</li>
 <li>:earth_africa: Codar viajando pelo mundo;</li>
-<li>👯 Ser um profissional de referência;</li>
+<li>🧑🏻‍💻 Ser um profissional de referência;</li>
 <li>:boom: Participar de um projeto revolucionário;</li>
 <li>:innocent: Mudar vida de pessoas através da programação;</li>
 <li>:heart_eyes: Amante de Doguinhos !;</li>
@@ -25,3 +25,5 @@ Linguagens e ferramentas:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48">
 </div>
+
+[![BrunoB GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobastosfer)](https://github.com/anuraghazra/github-readme-stats)
