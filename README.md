@@ -9,6 +9,7 @@ Meus interesses pessoais:
 <li>:innocent: Mudar vida de pessoas através da programação;</li>
 <li>:heart_eyes: Amante de Doguinhos !;</li>
 <li>📫 Entre em contato comigo através do email: brunobbastosf@gmail.com;</li>
+<li>LinkedIn: https://www.linkedin.com/in/brunobastosfer/</li>
 <li>:smile: Qualquer dúvida pisca!:wink:, vai ser um prazer ajudar você. Eu gosto de conversar.</li>
 </ul>
 <div display='flex'>
