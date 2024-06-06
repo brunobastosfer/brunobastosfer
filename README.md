@@ -1,4 +1,4 @@
-### Olá, me chamo Bruno Bastos Fernandes, sou de Fortaleza - Ceará, estou me capacitando para ser um Desenvolvedor Full-Stack Pleno 👨🏽‍💼.
+### Olá, me chamo Bruno Bastos Fernandes, sou de Fortaleza - Ceará, estou me capacitando para ser um Desenvolvedor Full-Stack Sênior 👨🏽‍💼.
 <div display='flex'>
 <ul>
 Meus interesses pessoais: 
@@ -27,6 +27,10 @@ Linguagens e ferramentas:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="48">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original-wordmark.svg" width="48">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48">
 </div>
 <div>
 <p>Git Status</p>
