@@ -1,4 +1,4 @@
-### Olá, me chamo Bruno Bastos Fernandes, sou de Fortaleza - Ceará, estou me capacitando para ser um Desenvolvedor Full-Stack Sênior 👨🏽‍💼.
+### Olá, me chamo Bruno Bastos Fernandes, sou de Fortaleza - Ceará, sou um Desenvolvedor Full-Stack Pleno👨🏽‍💼.
 <div display='flex'>
 <ul>
 Meus interesses pessoais: 
